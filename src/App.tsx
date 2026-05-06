@@ -24,11 +24,11 @@ export default function App() {
       <Navbar />
       <main>
         <Hero />
+        <Events />
         <Introduction />
         <ExperienceAccordion />
         <About />
         <Methodology />
-        <Events />
         <Gallery />
         <Contact />
       </main>
